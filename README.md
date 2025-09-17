@@ -8,13 +8,13 @@ La aplicación permite registrar diferentes nombres de participantes para despue
 
 -Agregar participantes  
 -Validacion de:    
-  -No espacios en blancos  
-  -No numeros  
-  -Mínimo 3 caracteres por nombre  
-  -Mínimo 2 participantes  
-  -Sorteo Aleatorio  
-  -Mostrar el nombre del amigo secreto  
-  -Reiniciar el juego  
+    -No espacios en blancos  
+    -No numeros  
+    -Mínimo 3 caracteres por nombre  
+    -Mínimo 2 participantes  
+    -Sorteo Aleatorio  
+    -Mostrar el nombre del amigo secreto  
+    -Reiniciar el juego  
 
 # Lenguajes Utilizados
 Javascript Vanilla
