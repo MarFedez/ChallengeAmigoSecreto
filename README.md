@@ -17,8 +17,8 @@ La aplicación permite registrar diferentes nombres de participantes para despue
     -Reiniciar el juego  
 
 # Lenguajes Utilizados
-Javascript Vanilla
-Git
-HTML
-CSS
+Javascript  
+Git  
+HTML  
+CSS  
 
