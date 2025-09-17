@@ -6,8 +6,8 @@ La aplicación permite registrar diferentes nombres de participantes para despue
 
 # Funcionalidades
 
--Agregar participantes
--Validacion de:  
+-Agregar participantes  
+-Validacion de:    
   -No espacios en blancos  
   -No numeros  
   -Mínimo 3 caracteres por nombre  
